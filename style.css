@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -41,4 +42,13 @@ section {
 .top-banner {
     background-image: url(images/icons/mongo.png);
     background-repeat: no-repeat;
+    background-size: 60px;
+}
+
+.dream-big {
+    background-image: url(images/icons/twitter.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+    padding: 10px 40px;
 }
